@@ -2,7 +2,7 @@
 --// Place in StarterPlayer > StarterPlayerScripts
 
 local APPROVED_USERS = {
-    1886967799, 3634382316
+    1886967799, 3634382316, 4464060250
 }
 
 local services = {
